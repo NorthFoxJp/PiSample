@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FE6A8AF8-062B-4A28-9D5D-E48633E16BC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample4Mac.sln">
+    <Files>
+      <File FileName="Sample4Mac.sln" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sample4Mac PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

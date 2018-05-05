@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample4MacDev", "Sample4Mac\Sample4MacDev.csproj", "{68AF903C-8EBB-42B1-9139-3ECE3A714803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCM2835Managed", "BCM2835Managed\BCM2835Managed.csproj", "{E291990C-5F16-42EA-9C29-F63F50CAAFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiAccessLib", "PiAccess\PiAccessLib.csproj", "{B6F15936-4788-4EC8-80EB-61447319E26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAppMain", "SampleAppMain\SampleAppMain.csproj", "{17CA947A-9337-400E-84DF-83C16E33A4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68AF903C-8EBB-42B1-9139-3ECE3A714803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AF903C-8EBB-42B1-9139-3ECE3A714803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AF903C-8EBB-42B1-9139-3ECE3A714803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AF903C-8EBB-42B1-9139-3ECE3A714803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E291990C-5F16-42EA-9C29-F63F50CAAFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E291990C-5F16-42EA-9C29-F63F50CAAFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E291990C-5F16-42EA-9C29-F63F50CAAFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E291990C-5F16-42EA-9C29-F63F50CAAFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F15936-4788-4EC8-80EB-61447319E26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F15936-4788-4EC8-80EB-61447319E26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F15936-4788-4EC8-80EB-61447319E26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F15936-4788-4EC8-80EB-61447319E26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CA947A-9337-400E-84DF-83C16E33A4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CA947A-9337-400E-84DF-83C16E33A4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CA947A-9337-400E-84DF-83C16E33A4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CA947A-9337-400E-84DF-83C16E33A4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
